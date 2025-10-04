@@ -1,0 +1,10 @@
+{
+  "Nasi Putih": {"kalori": 130, "protein": 2.7, "lemak": 0.3, "karbohidrat": 28},
+  "Ayam Goreng": {"kalori": 165, "protein": 31, "lemak": 3.6, "karbohidrat": 0},
+  "Sayur Bayam": {"kalori": 23, "protein": 2.9, "lemak": 0.4, "karbohidrat": 3.6},
+  "Tahu": {"kalori": 76, "protein": 8, "lemak": 4.8, "karbohidrat": 1.9},
+  "Tempe": {"kalori": 193, "protein": 20.8, "lemak": 11, "karbohidrat": 8.1},
+  "Ikan Bakar": {"kalori": 120, "protein": 19, "lemak": 3, "karbohidrat": 0},
+  "Nasi Goreng": {"kalori": 350, "protein": 12, "lemak": 15, "karbohidrat": 45},
+  "Mie Goreng": {"kalori": 420, "protein": 15, "lemak": 18, "karbohidrat": 55}
+}
